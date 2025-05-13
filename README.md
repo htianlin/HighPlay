@@ -61,7 +61,7 @@ bash ./design.sh
 
 ## Support or Report Issues
 
-If you encounter any issues or need support while using PepMSND, please report the issue in the [GitHub Issues](https://github.com/your_username/PepMSND/issues) .
+If you encounter any issues or need support while using HighPlay, please report the issue in the [GitHub Issues](https://github.com/your_username/HighPlay/issues) .
 
 ## Copyright and License
 
